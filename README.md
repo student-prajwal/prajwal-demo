@@ -1,3 +1,4 @@
 # prajwal-demo
-This is my first git repository
-Author - prajwal
+This is my first git repository.
+<br>
+Author-prajwal
